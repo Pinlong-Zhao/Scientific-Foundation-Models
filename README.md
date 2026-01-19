@@ -1,10 +1,11 @@
 # 🔬 Foundation Models for Scientific Discovery
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-January%202026-blue)
 
+<strong>🚧 Continuously updated~~~</strong>  
+📅 Last updated: January, 2026 
 
  <p align="center">
   <img src="assets/Fig1.png" alt="Scientific discoveryg" width="350" height="600"/>
