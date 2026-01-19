@@ -46,7 +46,7 @@ The integration of artificial intelligence with scientific discovery has entered
 
 ### Key Features of This Repository
 
-- 📚 **Comprehensive Coverage**: 45+ foundation models across 4 data modalities
+- 📚 **Comprehensive Coverage**: Extensive collection of foundation models across 4 data modalities
 - 🏷️ **Systematic Taxonomy**: Organized by modality, architecture, and pre-training paradigm
 - 🔗 **Direct Links**: Paper and code links for all models
 - 🔄 **Regular Updates**: Continuously updated with the latest research
@@ -55,9 +55,6 @@ The integration of artificial intelligence with scientific discovery has entered
 
 ## 🗂️ Taxonomy
 
-<p align="center">
-  <img src="fig/Fig2.pdf" width="800">
-</p>
 
 We organize scientific foundation models along **three orthogonal dimensions**:
 
