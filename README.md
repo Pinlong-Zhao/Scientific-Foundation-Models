@@ -7,7 +7,7 @@
 
 
  <p align="center">
-  <img src="assets/Fig1.png" alt="Scientific discoveryg" width="400" height="400"/>
+  <img src="assets/Fig1.png" alt="Scientific discoveryg" width="350" height="600"/>
 </p>
 <p align="center"><b>📌 Fig. 1.</b> Foundation models for scientific discovery.</p>
 
@@ -218,7 +218,7 @@ If you find this repository useful, please cite our survey:
 @article{zhao2026foundation,
   title={Foundation Models for Scientific Discovery: A Survey of Modalities, Architectures, and Strategies},
   author={Zhao, Pinlong},
-  journal={Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)},
+  journal={Coming soon},
   year={2026}
 }
 ```
@@ -251,12 +251,3 @@ School of Cyberspace, Hangzhou Dianzi University
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<p align="center">
-  <b>If you find this repository helpful, please consider giving it a ⭐!</b>
-</p>
