@@ -231,14 +231,6 @@ We welcome contributions! Please feel free to:
 - 📝 Submit a PR to add new models or fix errors
 - ⭐ Star this repository if you find it helpful
 
-### How to Contribute
-
-1. Fork this repository
-2. Create your feature branch (`git checkout -b feature/NewModel`)
-3. Commit your changes (`git commit -am 'Add NewModel'`)
-4. Push to the branch (`git push origin feature/NewModel`)
-5. Open a Pull Request
-
 ---
 
 ## 📬 Contact
